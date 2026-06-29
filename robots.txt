@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plant-listing.ycdit.workers.dev/sitemap.xml
